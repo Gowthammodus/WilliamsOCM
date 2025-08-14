@@ -6,7 +6,7 @@ const Footer: React.FC = () => {
     <footer className="bg-slate-800/30 text-center py-6 shadow-inner-top">
       <div className="container mx-auto px-4">
         <p className="text-sm text-slate-400">
-          &copy; 2025 Modus. All rights Reserved
+          &copy; BBD Perfect Storm 2025. All rights Reserved
         </p>
       </div>
     </footer>
